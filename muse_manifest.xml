@@ -1,0 +1,151 @@
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ooopremium-org.github.io" resolutions="1x" timestamp="1533306145254">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="4002497070" ref="index"/>
+    <file name="price.css" crc="3778200884" ref="price"/>
+    <file name="kontakt.css" crc="3989587118" ref="kontakt"/>
+    <file name="price2.css" crc="51067706" ref="price2"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:price:kontakt:price2"/>
+    <file name="museutils.js" crc="46400467" ref="index:price:kontakt:price2"/>
+    <file name="whatinput.js" crc="86476730" ref="index:price:kontakt:price2"/>
+    <file name="museconfig.js" crc="436936948" ref="index:price:kontakt:price2"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="532123423" ref="index:price:kontakt:price2"/>
+    <file name="jquery.musemenu.js" crc="3936200140" ref="index:price:kontakt:price2"/>
+    <file name="webpro.js" crc="4152390327" ref="index"/>
+    <file name="musewpslideshow.js" crc="380562115" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3986278607" ref="index"/>
+    <file name="touchswipe.js" crc="4228958816" ref="index"/>
+    <file name="jquery.watch.js" crc="4178585335" ref="index:price:kontakt:price2"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:price:kontakt:price2"/>
+    <file name="require.js" crc="85721165" ref="index:price:kontakt:price2"/>
+  </folder>
+  <folder name="images">
+    <file name="logo.png" crc="3878396610" ref="index:price:kontakt:price2">
+      <caption webpage="index" alt=""/>
+      <caption webpage="ооо-премиум---резиновые-покрытия---контакты" alt=""/>
+      <caption webpage="price" alt=""/>
+      <caption webpage="price-копия" alt=""/>
+      <caption webpage="price2" alt=""/>
+      <caption webpage="kontakt" alt=""/>
+    </file>
+    <file name="kovrik_mat_gorchichnii.jpg" crc="346620415" ref="index:price:kontakt:price2">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="ооо-премиум---резиновые-покрытия---контакты" alt=""/>
+      <caption webpage="ооо-премиум---резиновые-покрытия---контакты" alt=""/>
+      <caption webpage="ооо-премиум---резиновые-покрытия---контакты" alt=""/>
+      <caption webpage="ооо-премиум---резиновые-покрытия---контакты" alt=""/>
+      <caption webpage="ооо-премиум---резиновые-покрытия---контакты" alt=""/>
+      <caption webpage="ооо-премиум---резиновые-покрытия---контакты" alt=""/>
+      <caption webpage="ооо-премиум---резиновые-покрытия---контакты" alt=""/>
+      <caption webpage="ооо-премиум---резиновые-покрытия---контакты" alt=""/>
+      <caption webpage="ооо-премиум---резиновые-покрытия---контакты" alt=""/>
+      <caption webpage="ооо-премиум---резиновые-покрытия---контакты" alt=""/>
+      <caption webpage="price" alt=""/>
+      <caption webpage="price" alt=""/>
+      <caption webpage="price" alt=""/>
+      <caption webpage="price" alt=""/>
+      <caption webpage="price" alt=""/>
+      <caption webpage="price" alt=""/>
+      <caption webpage="price" alt=""/>
+      <caption webpage="price" alt=""/>
+      <caption webpage="price" alt=""/>
+      <caption webpage="price" alt=""/>
+      <caption webpage="price-копия" alt=""/>
+      <caption webpage="price-копия" alt=""/>
+      <caption webpage="price-копия" alt=""/>
+      <caption webpage="price-копия" alt=""/>
+      <caption webpage="price-копия" alt=""/>
+      <caption webpage="price-копия" alt=""/>
+      <caption webpage="price-копия" alt=""/>
+      <caption webpage="price-копия" alt=""/>
+      <caption webpage="price-копия" alt=""/>
+      <caption webpage="price-копия" alt=""/>
+      <caption webpage="price-копия" alt=""/>
+      <caption webpage="price2" alt=""/>
+      <caption webpage="price2" alt=""/>
+      <caption webpage="price2" alt=""/>
+      <caption webpage="price2" alt=""/>
+      <caption webpage="price2" alt=""/>
+      <caption webpage="price2" alt=""/>
+      <caption webpage="price2" alt=""/>
+      <caption webpage="price2" alt=""/>
+      <caption webpage="price2" alt=""/>
+      <caption webpage="price2" alt=""/>
+      <caption webpage="price2" alt=""/>
+      <caption webpage="kontakt" alt=""/>
+      <caption webpage="kontakt" alt=""/>
+      <caption webpage="kontakt" alt=""/>
+      <caption webpage="kontakt" alt=""/>
+      <caption webpage="kontakt" alt=""/>
+      <caption webpage="kontakt" alt=""/>
+      <caption webpage="kontakt" alt=""/>
+      <caption webpage="kontakt" alt=""/>
+      <caption webpage="kontakt" alt=""/>
+      <caption webpage="kontakt" alt=""/>
+    </file>
+    <file name="kovrik.jpg" crc="68381771" ref="index:price:kontakt:price2">
+      <caption webpage="index" alt=""/>
+      <caption webpage="ооо-премиум---резиновые-покрытия---контакты" alt=""/>
+      <caption webpage="price" alt=""/>
+      <caption webpage="price-копия" alt=""/>
+      <caption webpage="price2" alt=""/>
+      <caption webpage="kontakt" alt=""/>
+    </file>
+    <file name="img-0ac1af2b80864867bd08ad0535ab60ce-v.jpg" crc="352824368" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="img-06002bff018fd97ab151ee829b98a08e-v-crop-u521.jpg" crc="397273095" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-76241c1850485faf22e2641861270c5e-v-crop-u547.jpg" crc="265951537" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-0120693275270e28a1da3e3de1b84aa9-v-crop-u573.jpg" crc="3860519155" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-f17eb396ea2fe73dce50108837171a39-v-crop-u599.jpg" crc="331453459" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-0ac1af2b80864867bd08ad0535ab60ce-v60x45.jpg" crc="4173601227" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-06002bff018fd97ab151ee829b98a08e-v-crop-u529.jpg" crc="3997415296" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-76241c1850485faf22e2641861270c5e-v-crop-u555.jpg" crc="14496484" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-0120693275270e28a1da3e3de1b84aa9-v-crop-u581.jpg" crc="278664100" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-f17eb396ea2fe73dce50108837171a39-v-crop-u607.jpg" crc="4082248213" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="kovrik_mat_orangevii.jpg" crc="3865924109" ref="index:price:kontakt:price2">
+      <caption webpage="index" alt=""/>
+      <caption webpage="ооо-премиум---резиновые-покрытия---контакты" alt=""/>
+      <caption webpage="price" alt=""/>
+      <caption webpage="price-копия" alt=""/>
+      <caption webpage="price2" alt=""/>
+      <caption webpage="kontakt" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="245822565" seo="true" mt="1533306133405" redirect="true"/>
+  <file name="price.html" crc="457667241" seo="true" mt="1533306133403" redirect="true"/>
+  <file name="kontakt.html" crc="4206269664" seo="true" mt="1533306133402" redirect="true"/>
+  <file name="price2.html" crc="495274836" seo="true" mt="1533306133407" redirect="true"/>
+</manifest>
