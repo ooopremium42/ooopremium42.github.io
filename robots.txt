@@ -1,0 +1,7 @@
+User-agent: Googlebot
+
+User-agent: *
+
+User-agent: Yandex
+
+Sitemap: http://ooopremium42.github.io/sitemap.xml
