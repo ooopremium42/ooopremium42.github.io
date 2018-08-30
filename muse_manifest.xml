@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ooopremium42.github.io" resolutions="1x" timestamp="1535575076428">
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ooopremium42.github.io" resolutions="1x" timestamp="1535624717279">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="439020257" ref="index"/>
-    <file name="price.css" crc="4277566176" ref="price"/>
-    <file name="kontakt.css" crc="9210633" ref="kontakt"/>
-    <file name="price2.css" crc="4085433914" ref="price2"/>
+    <file name="index.css" crc="500562261" ref="index"/>
+    <file name="price.css" crc="430122441" ref="price"/>
+    <file name="kontakt.css" crc="4137842240" ref="kontakt"/>
+    <file name="price2.css" crc="4015009698" ref="price2"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:price:kontakt:price2"/>
@@ -24,11 +24,11 @@
   <folder name="images">
     <file name="logo.png" crc="3878396610" ref="index:price:kontakt:price2">
       <caption webpage="index" alt=""/>
-      <caption webpage="kontakt" alt=""/>
       <caption webpage="ооо-премиум---резиновые-покрытия---контакты" alt=""/>
-      <caption webpage="price2" alt=""/>
-      <caption webpage="price" alt=""/>
+      <caption webpage="kontakt" alt=""/>
       <caption webpage="price-копия" alt=""/>
+      <caption webpage="price" alt=""/>
+      <caption webpage="price2" alt=""/>
     </file>
     <file name="kovrik_mat_gorchichnii.jpg" crc="346620415" ref="index:price:kontakt:price2">
       <caption webpage="index" alt=""/>
@@ -41,16 +41,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="kontakt" alt=""/>
-      <caption webpage="kontakt" alt=""/>
-      <caption webpage="kontakt" alt=""/>
-      <caption webpage="kontakt" alt=""/>
-      <caption webpage="kontakt" alt=""/>
-      <caption webpage="kontakt" alt=""/>
-      <caption webpage="kontakt" alt=""/>
-      <caption webpage="kontakt" alt=""/>
-      <caption webpage="kontakt" alt=""/>
-      <caption webpage="kontakt" alt=""/>
       <caption webpage="ооо-премиум---резиновые-покрытия---контакты" alt=""/>
       <caption webpage="ооо-премиум---резиновые-покрытия---контакты" alt=""/>
       <caption webpage="ооо-премиум---резиновые-покрытия---контакты" alt=""/>
@@ -61,17 +51,27 @@
       <caption webpage="ооо-премиум---резиновые-покрытия---контакты" alt=""/>
       <caption webpage="ооо-премиум---резиновые-покрытия---контакты" alt=""/>
       <caption webpage="ооо-премиум---резиновые-покрытия---контакты" alt=""/>
-      <caption webpage="price2" alt=""/>
-      <caption webpage="price2" alt=""/>
-      <caption webpage="price2" alt=""/>
-      <caption webpage="price2" alt=""/>
-      <caption webpage="price2" alt=""/>
-      <caption webpage="price2" alt=""/>
-      <caption webpage="price2" alt=""/>
-      <caption webpage="price2" alt=""/>
-      <caption webpage="price2" alt=""/>
-      <caption webpage="price2" alt=""/>
-      <caption webpage="price2" alt=""/>
+      <caption webpage="kontakt" alt=""/>
+      <caption webpage="kontakt" alt=""/>
+      <caption webpage="kontakt" alt=""/>
+      <caption webpage="kontakt" alt=""/>
+      <caption webpage="kontakt" alt=""/>
+      <caption webpage="kontakt" alt=""/>
+      <caption webpage="kontakt" alt=""/>
+      <caption webpage="kontakt" alt=""/>
+      <caption webpage="kontakt" alt=""/>
+      <caption webpage="kontakt" alt=""/>
+      <caption webpage="price-копия" alt=""/>
+      <caption webpage="price-копия" alt=""/>
+      <caption webpage="price-копия" alt=""/>
+      <caption webpage="price-копия" alt=""/>
+      <caption webpage="price-копия" alt=""/>
+      <caption webpage="price-копия" alt=""/>
+      <caption webpage="price-копия" alt=""/>
+      <caption webpage="price-копия" alt=""/>
+      <caption webpage="price-копия" alt=""/>
+      <caption webpage="price-копия" alt=""/>
+      <caption webpage="price-копия" alt=""/>
       <caption webpage="price" alt=""/>
       <caption webpage="price" alt=""/>
       <caption webpage="price" alt=""/>
@@ -82,25 +82,25 @@
       <caption webpage="price" alt=""/>
       <caption webpage="price" alt=""/>
       <caption webpage="price" alt=""/>
-      <caption webpage="price-копия" alt=""/>
-      <caption webpage="price-копия" alt=""/>
-      <caption webpage="price-копия" alt=""/>
-      <caption webpage="price-копия" alt=""/>
-      <caption webpage="price-копия" alt=""/>
-      <caption webpage="price-копия" alt=""/>
-      <caption webpage="price-копия" alt=""/>
-      <caption webpage="price-копия" alt=""/>
-      <caption webpage="price-копия" alt=""/>
-      <caption webpage="price-копия" alt=""/>
-      <caption webpage="price-копия" alt=""/>
+      <caption webpage="price2" alt=""/>
+      <caption webpage="price2" alt=""/>
+      <caption webpage="price2" alt=""/>
+      <caption webpage="price2" alt=""/>
+      <caption webpage="price2" alt=""/>
+      <caption webpage="price2" alt=""/>
+      <caption webpage="price2" alt=""/>
+      <caption webpage="price2" alt=""/>
+      <caption webpage="price2" alt=""/>
+      <caption webpage="price2" alt=""/>
+      <caption webpage="price2" alt=""/>
     </file>
     <file name="kovrik.jpg" crc="68381771" ref="index:price:kontakt:price2">
       <caption webpage="index" alt=""/>
-      <caption webpage="kontakt" alt=""/>
       <caption webpage="ооо-премиум---резиновые-покрытия---контакты" alt=""/>
-      <caption webpage="price2" alt=""/>
-      <caption webpage="price" alt=""/>
+      <caption webpage="kontakt" alt=""/>
       <caption webpage="price-копия" alt=""/>
+      <caption webpage="price" alt=""/>
+      <caption webpage="price2" alt=""/>
     </file>
     <file name="img-0ac1af2b80864867bd08ad0535ab60ce-v.jpg" crc="352824368" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -136,11 +136,11 @@
     <file name="loading.gif" crc="3815509949" ref="index"/>
     <file name="kovrik_mat_orangevii.jpg" crc="3865924109" ref="index:price:kontakt:price2">
       <caption webpage="index" alt=""/>
-      <caption webpage="kontakt" alt=""/>
       <caption webpage="ооо-премиум---резиновые-покрытия---контакты" alt=""/>
-      <caption webpage="price2" alt=""/>
-      <caption webpage="price" alt=""/>
+      <caption webpage="kontakt" alt=""/>
       <caption webpage="price-копия" alt=""/>
+      <caption webpage="price" alt=""/>
+      <caption webpage="price2" alt=""/>
     </file>
     <file name="img-13d607fb03c3db9f0bbfda1431c74dd7-v-crop-u3867.jpg" crc="4191800583" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -167,8 +167,8 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4283403268" seo="true" mt="1535575038246" redirect="true"/>
-  <file name="price.html" crc="4110015049" seo="true" mt="1535566123266" redirect="true"/>
-  <file name="kontakt.html" crc="173484262" seo="true" mt="1535568284813" redirect="true"/>
-  <file name="price2.html" crc="452628234" seo="true" mt="1535566859630" redirect="true"/>
+  <file name="index.html" crc="136191345" seo="true" mt="1535624708588" redirect="true"/>
+  <file name="price.html" crc="4268029448" seo="true" mt="1535624634355" redirect="true"/>
+  <file name="kontakt.html" crc="4169315726" seo="true" mt="1535624516562" redirect="true"/>
+  <file name="price2.html" crc="405332768" seo="true" mt="1535624666199" redirect="true"/>
 </manifest>
